@@ -22,3 +22,12 @@ p {
 #outer-box {
   background-color: purple;
 }
+
+.inner-box p {
+  color: white;
+}
+
+selector1,
+selector2,
+selector3 ... {
+}
